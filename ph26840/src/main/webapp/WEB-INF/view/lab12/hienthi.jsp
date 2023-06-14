@@ -1,0 +1,1 @@
+<h1>Hien thi ket qua:${kq1}</h1>
